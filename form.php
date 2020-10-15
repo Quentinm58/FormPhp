@@ -11,3 +11,7 @@ $sql = "INSERT INTO user (prenom, nom) VALUES ('$prenom', '$name')";
 
 
 $pdo->exec($sql);
+
+?>
+
+
